@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:acacia_wood"
+    },
+    "result": "minecraft:acacia_slab",
+    "group": "acacia_logs",
+    "count": 8
+}

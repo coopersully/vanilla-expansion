@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:warped_hyphae"
+    },
+    "result": "minecraft:warped_pressure_plate",
+    "group": "crimson_stems",
+    "count": 2
+}

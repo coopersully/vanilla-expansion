@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:stripped_spruce_wood"
+    },
+    "result": "minecraft:spruce_door",
+    "group": "spruce_logs",
+    "count": 2
+}

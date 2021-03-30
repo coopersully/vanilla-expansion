@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:oak_wood"
+    },
+    "result": "minecraft:stick",
+    "group": "oak_logs",
+    "count": 8
+}

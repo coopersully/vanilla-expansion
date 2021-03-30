@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:crimson_stem"
+    },
+    "result": "minecraft:ladder",
+    "group": "crimson_stems",
+    "count": 3
+}

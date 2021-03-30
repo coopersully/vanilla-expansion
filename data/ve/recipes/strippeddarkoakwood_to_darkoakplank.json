@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:stripped_dark_oak_wood"
+    },
+    "result": "minecraft:dark_oak_planks",
+    "group": "dark_oak_logs",
+    "count": 4
+}

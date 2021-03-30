@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:warped_stem"
+    },
+    "result": "minecraft:warped_fence",
+    "group": "warped_stems",
+    "count": 2
+}

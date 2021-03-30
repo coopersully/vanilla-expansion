@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:warped_hyphae"
+    },
+    "result": "minecraft:warped_stairs",
+    "group": "crimson_stems",
+    "count": 4
+}

@@ -1,0 +1,135 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:	\"minecraft:white_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:orange_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:magenta_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:light_blue_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:yellow_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:lime_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:pink_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:gray_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:light_gray_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:cyan_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:purple_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:blue_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:brown_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:green_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:red_concrete_powder\"}}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:item",
+          "nbt": "{Item:{id:\"minecraft:black_concrete_powder\"}}"
+        }
+      }
+    ]
+  }
+]

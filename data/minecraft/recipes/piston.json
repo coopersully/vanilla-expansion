@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "$i$",
+        "$R$"
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:oak_planks"
+        },
+        "$": {
+            "tag": "ve:stone"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:piston",
+        "count": 1
+    }
+}

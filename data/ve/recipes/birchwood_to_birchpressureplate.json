@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:birch_wood"
+    },
+    "result": "minecraft:birch_pressure_plate",
+    "group": "birch_logs",
+    "count": 2
+}

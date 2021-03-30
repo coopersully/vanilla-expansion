@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:experience_orb] at @s if entity @a[distance=..3] run tp @s ^ ^ ^0.25 facing entity @p[distance=..3]

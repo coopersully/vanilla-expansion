@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:stripped_warped_stem"
+    },
+    "result": "minecraft:stick",
+    "group": "crimson_stems",
+    "count": 8
+}

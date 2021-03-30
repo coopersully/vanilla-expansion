@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:jungle_log"
+    },
+    "result": "minecraft:jungle_fence_gate",
+    "group": "jungle_logs",
+    "count": 1
+}

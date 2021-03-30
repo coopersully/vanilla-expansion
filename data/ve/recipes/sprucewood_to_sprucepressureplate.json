@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:spruce_wood"
+    },
+    "result": "minecraft:spruce_pressure_plate",
+    "group": "spruce_logs",
+    "count": 2
+}

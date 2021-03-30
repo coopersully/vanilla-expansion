@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ve:tick",
+	"ve:concrete_powder/tick",
+	"ve:crops/tick",
+	"ve:saplings/tick",
+	"ve:experience_orbs/tick"
+  ]
+}
