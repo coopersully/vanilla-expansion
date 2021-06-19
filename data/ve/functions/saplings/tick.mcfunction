@@ -6,6 +6,8 @@ execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:birch_sapling",Count:
 execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:jungle_sapling",Count:1b},OnGround:1b}] at @s if block ~ ~-1 ~ #ve:dirts if block ~ ~ ~ minecraft:air run scoreboard players add @s ve.age 1
 execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:acacia_sapling",Count:1b},OnGround:1b}] at @s if block ~ ~-1 ~ #ve:dirts if block ~ ~ ~ minecraft:air run scoreboard players add @s ve.age 1
 execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:dark_oak_sapling",Count:1b},OnGround:1b}] at @s if block ~ ~-1 ~ #ve:dirts if block ~ ~ ~ minecraft:air run scoreboard players add @s ve.age 1
+execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:azalea",Count:1b},OnGround:1b}] at @s if block ~ ~-1 ~ #ve:dirts if block ~ ~ ~ minecraft:air run scoreboard players add @s ve.age 1
+execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:flowering_azalea",Count:1b},OnGround:1b}] at @s if block ~ ~-1 ~ #ve:dirts if block ~ ~ ~ minecraft:air run scoreboard players add @s ve.age 1
 
 execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:oak_sapling",Count:1b},OnGround:1b}] at @s if block ~ ~-1 ~ #ve:dirts if block ~ ~ ~ minecraft:air if score @s ve.age matches 3600.. align xyz run function ve:saplings/plant_oak
 execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:spruce_sapling",Count:1b},OnGround:1b}] at @s if block ~ ~-1 ~ #ve:dirts if block ~ ~ ~ minecraft:air if score @s ve.age matches 3600.. align xyz run function ve:saplings/plant_spruce
@@ -13,3 +15,5 @@ execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:birch_sapling",Count:
 execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:jungle_sapling",Count:1b},OnGround:1b}] at @s if block ~ ~-1 ~ #ve:dirts if block ~ ~ ~ minecraft:air if score @s ve.age matches 3600.. align xyz run function ve:saplings/plant_jungle
 execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:acacia_sapling",Count:1b},OnGround:1b}] at @s if block ~ ~-1 ~ #ve:dirts if block ~ ~ ~ minecraft:air if score @s ve.age matches 3600.. align xyz run function ve:saplings/plant_acacia
 execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:dark_oak_sapling",Count:1b},OnGround:1b}] at @s if block ~ ~-1 ~ #ve:dirts if block ~ ~ ~ minecraft:air if score @s ve.age matches 3600.. align xyz run function ve:saplings/plant_dark_oak
+execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:azalea",Count:1b},OnGround:1b}] at @s if block ~ ~-1 ~ #ve:dirts if block ~ ~ ~ minecraft:air if score @s ve.age matches 3600.. align xyz run function ve:saplings/plant_azalea
+execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:flowering_azalea",Count:1b},OnGround:1b}] at @s if block ~ ~-1 ~ #ve:dirts if block ~ ~ ~ minecraft:air if score @s ve.age matches 3600.. align xyz run function ve:saplings/plant_flowering_azalea

@@ -1,1 +1,1 @@
-execute as @e[type=minecraft:item] at @s if predicate ve:is_concrete_powder if block ~ ~ ~ minecraft:cauldron unless block ~ ~ ~ minecraft:cauldron[level=0] run function ve:concrete_powder/convert
+execute as @e[type=minecraft:item] at @s if predicate ve:is_concrete_powder if block ~ ~ ~ minecraft:water_cauldron run function ve:concrete_powder/convert
