@@ -29,3 +29,8 @@ Follow these steps to install the datapack effortlessly:
 
 ## Need more assistance?
 Encountering installation issues? Don't worry! Reach out to me for assistance. [Join my Discord server for extra support on all my datapacks.](https://discord.gg/ZbrzN5RmyR)
+
+## Issues & suggestions
+Should you encounter any problems with the datapack, kindly [inform me through a support ticket.](https://github.com/coopersully/vanilla-expansion/issues) While I am a full-time college student, 
+I'll make every effort to promptly address issues, bugs, and exploits. If you have ideas for new features or changes in an upcoming pack 
+version, feel free to share your suggestions. Your input is greatly appreciated!
