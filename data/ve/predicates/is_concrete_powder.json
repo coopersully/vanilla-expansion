@@ -7,7 +7,7 @@
         "entity": "this",
         "predicate": {
           "type": "minecraft:item",
-          "nbt": "{Item:{id:	\"minecraft:white_concrete_powder\"}}"
+          "nbt": "{Item:{id:\"minecraft:white_concrete_powder\"}}"
         }
       },
       {
